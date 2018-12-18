@@ -1,0 +1,19 @@
+vacuum TODO:
+
+- carpet shader
+- random floor generation
+- random object placement
+- color schemes
+
+
+
+
+Interactions
+
+- Turn vacuum on/off
+- Push vacuum around
+- Lift vacuum up to move
+    - Leave footprints in carpet when doing this?
+- Wind/unwind cord
+- Plug/unplug cord
+    - Generate outlets around room?

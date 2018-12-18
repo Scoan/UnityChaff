@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacuum.Plugins", "Vacuum.Plugins.csproj", "{1083C5D7-C928-5C05-4FAE-BE62267A07A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacuum", "Vacuum.csproj", "{082F9A55-7F98-B263-A55C-436022471EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vacuum.Editor.Plugins", "Vacuum.Editor.Plugins.csproj", "{9AFF0EB9-D4EF-16A0-BF2E-1BC552E0888B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1083C5D7-C928-5C05-4FAE-BE62267A07A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1083C5D7-C928-5C05-4FAE-BE62267A07A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1083C5D7-C928-5C05-4FAE-BE62267A07A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1083C5D7-C928-5C05-4FAE-BE62267A07A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{082F9A55-7F98-B263-A55C-436022471EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{082F9A55-7F98-B263-A55C-436022471EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{082F9A55-7F98-B263-A55C-436022471EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{082F9A55-7F98-B263-A55C-436022471EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AFF0EB9-D4EF-16A0-BF2E-1BC552E0888B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFF0EB9-D4EF-16A0-BF2E-1BC552E0888B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFF0EB9-D4EF-16A0-BF2E-1BC552E0888B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFF0EB9-D4EF-16A0-BF2E-1BC552E0888B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
